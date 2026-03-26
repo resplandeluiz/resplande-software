@@ -491,13 +491,13 @@ https://templatemo.com/tm-596-electric-xtra
         }
 
         .cta-container {
-            bottom: 90px;
-            left: 50%;
-            transform: translateX(-50%);
             display: flex;
             gap: 20px;
             justify-content: center;
+            align-items: center;
             flex-wrap: wrap;
+            width: 100%;
+            margin-top: 30px;
             z-index: 100;
         }
 
