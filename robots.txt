@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://resplandeluiz.github.io/resplande-software/sitemap.xml
+Sitemap: https://resplandesoftware.com.br/sitemap.xml
